@@ -32,7 +32,7 @@
 
 # 背景 - 重生之日
 
-![alt text](https://raw.githubusercontent.com/CesareMJLi/Welcome-to-new-order/Images/map.png)
+![MAP](https://raw.githubusercontent.com/CesareMJLi/Welcome-to-new-order/master/Images/map.png)
 
 这是一个巨大的大陆，上古的先知从太阳升起的地方走到太阳落下的地方花了几十年的时间。
 
